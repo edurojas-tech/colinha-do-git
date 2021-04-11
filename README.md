@@ -10,5 +10,5 @@ https://git-scm.com/download
     - [x] Para clonagem, executa o comando "git clone nome-do-link"
     - [x] Para inicializar um novo repositório "git init"
 
-- [] Criar pontos de produção no histórico da timeline do projeto
-- [] Verificar  alterações/mudanças feitas no projeto
+- [x] Criar pontos de produção no histórico da timeline do projeto
+- [x] Verificar  alterações/mudanças feitas no projeto
