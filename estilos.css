@@ -1,6 +1,12 @@
 /* Importação de google fonts */
 @import url('https://fonts.googleapis.com/css2?family=RocknRoll+One&display=swap');
-body{}
+body{
+    background-image: url('img/bg-white.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center; 
+    background-attachment: fixed;
+}
 .icones{
     font-size: 45px;
     color: #192a56;
