@@ -1,6 +1,6 @@
-# GIT E GITHUB
+# Hello World Git e GitHub
 
-Guia Prático para iniciantes.
+Guia Prático de Git e GitHub para iniciantes.
 
 ### Instalação 
 https://git-scm.com/download
