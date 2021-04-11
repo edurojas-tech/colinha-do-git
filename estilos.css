@@ -1,0 +1,17 @@
+/* Importação de google fonts */
+@import url('https://fonts.googleapis.com/css2?family=RocknRoll+One&display=swap');
+body{}
+.icones{
+    font-size: 45px;
+    color: #192a56;
+}
+
+h1{
+    color: #192a56;
+    font-family: 'RocknRoll One', sans-serif;
+}
+
+.textos{
+    font-family: 'RocknRoll One', sans-serif;
+    text-align: justify;
+}
