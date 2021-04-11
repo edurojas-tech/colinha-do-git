@@ -1,25 +1,42 @@
-let titulo = document.getElementById("titulo")
-let sobreGit = document.getElementById("aboutGit")
+$(document).ready(()=>{
 
-let descTitulo = `Guia Git e GitHub para iniciantes`
+    //elemento <body #app>
+    let corpo = document.getElementById("app")
+    let elementosHTML = function(){
+        return `
+            <section class="container text-center pt-5" id="titulo"></section>
+            <section class="container" id="aboutGit"></section>
+        `
+    }
+    corpo.innerHTML = elementosHTML()
+    function renderizar(){
+        let titulo = document.getElementById("titulo")
+        let sobreGit = document.getElementById("aboutGit")
 
-// elemento HTML para seção do titulo
-const secaoTitulo = function (txtTitulo) {
-    return `
-    <h1>
-        <span class="icones">
-            <i class="fab fa-git-alt"></i>
-        </span>
-        ${txtTitulo}
-        <span class="icones">
-            <i class="fab fa-github"></i>
-        </span>
-    </h1>
-    <hr>
-    `
-}
+        //textos ou msgs
+        let descTitulo = `Guia Git e GitHub para iniciantes`
 
-const secaoSobreGit = () => `<p class="textos">Aqui texto sobre o Git...</p>`
+        // elemento HTML para seção do titulo
+        const secaoTitulo = function (txtTitulo) {
+            return `
+            <h1>
+                <span class="icones">
+                    <i class="fab fa-git-alt"></i>
+                </span>
+                ${txtTitulo}
+                <span class="icones">
+                    <i class="fab fa-github"></i>
+                </span>
+            </h1>
+            <hr>
+            `
+        }
 
-titulo.innerHTML = secaoTitulo(descTitulo)
-sobreGit.innerHTML = secaoSobreGit()
+        const secaoSobreGit = () => `<p class="textos">Aqui texto sobre o Git...</p>`
+        titulo.innerHTML = secaoTitulo(descTitulo)
+        sobreGit.innerHTML = secaoSobreGit()
+    }
+
+    renderizar()  
+   
+})
