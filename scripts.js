@@ -18,19 +18,15 @@ $(document).ready(()=>{
         let sobreGit = document.getElementById("aboutGit")
 
         //textos ou msgs
-        let descTitulo = `Guia Git e GitHub para iniciantes`
+        let descTitulo = `Guia Git e GitHub <br> para iniciantes`
 
         // elemento HTML para seção do titulo
         const secaoTitulo = function (txtTitulo) {
             return `
             <h1>
-                <span class="icones">
-                    <i class="fab fa-git-alt"></i>
-                </span>
+               
+                <br>
                 ${txtTitulo}
-                <span class="icones">
-                    <i class="fab fa-github"></i>
-                </span>
             </h1>
             <hr>
             `
@@ -42,3 +38,10 @@ $(document).ready(()=>{
     }
     renderizar()  
 })
+
+// <span class="icones">
+// <i class="fab fa-git-alt"></i>
+// </span>
+// <span class="icones">
+// <i class="fab fa-github"></i>
+// </span>

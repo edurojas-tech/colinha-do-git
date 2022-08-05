@@ -1,23 +1,33 @@
 /* Importação de google fonts */
-@import url('https://fonts.googleapis.com/css2?family=RocknRoll+One&display=swap');
-body{
-    background-image: url('img/bg-white.jpg');
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center; 
-    background-attachment: fixed;
+@import url("https://fonts.googleapis.com/css2?family=RocknRoll+One&display=swap");
+body {
+  background-image: url("img/bg-white.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
 }
-.icones{
-    font-size: 45px;
-    color: #192a56;
-}
-
-h1{
-    color: #192a56;
-    font-family: 'RocknRoll One', sans-serif;
+.icones {
+  font-size: 45px;
+  color: #081435 !important;
 }
 
-.textos{
-    font-family: 'RocknRoll One', sans-serif;
-    text-align: justify;
+h1 {
+  color: #081435 !important;
+  font-family: "RocknRoll One", sans-serif;
+}
+
+.textos {
+  font-family: "RocknRoll One", sans-serif;
+  text-align: justify;
+  color: #000;
+}
+
+#app {
+  background: linear-gradient(
+    90deg,
+    rgb(238, 238, 238) 4%,
+    rgba(243, 240, 240, 0.3) 100%
+  );
+  height: 100%;
 }
