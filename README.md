@@ -1,10 +1,8 @@
 <h1 align="center">
     <img style="border-radius: 50%" alt="JavaScript" title="#estudosJs" src="https://fofxacademy.com/wp-content/uploads/2020/01/install-git-for-multiple-users.png" width='20%' align="center"/>
     <br>
-<!--      Hello World Git e GitHub -->
+    Guia Prático para iniciantes.
 </h1>
-
-Guia Prático de Git e GitHub para iniciantes.
 
 # Instalação 
 https://git-scm.com/download
