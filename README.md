@@ -1,4 +1,8 @@
-# Hello World Git e GitHub
+<h1 align="center">
+    <img alt="JavaScript" title="#estudosJs" src="https://www.cursoemvideo.com/wp-content/uploads/2020/04/git-1.png" width='20%' align="center"/>
+    <br>
+     Hello World Git e GitHub
+</h1>
 
 Guia Prático de Git e GitHub para iniciantes.
 
