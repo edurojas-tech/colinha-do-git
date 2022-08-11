@@ -6,7 +6,7 @@
 
 Guia Prático de Git e GitHub para iniciantes.
 
-### Instalação 
+# Instalação 
 https://git-scm.com/download
 
 # Comandos Git:
