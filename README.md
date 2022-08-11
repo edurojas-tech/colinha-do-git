@@ -15,3 +15,29 @@ https://git-scm.com/download
     - Para verificar, usa-se o comando "git status"
 
 - [x] Para adicionar os arquivos, a serm lidos ou sicronizados para que o git consiga monitorar, se usa o comando: "git add nomedoArquivo" ou "git add ." para adicionar todos os arquivos pendentes.
+
+### Comandos:
+
+`**git status**`
+
+verifica situação que se encontra a branch, validando se há alterções, commits pendentes, etc.
+
+`**git add .**`
+
+Adiciona todos os arquivos e/ou pastas modificados na lista para commitar. 
+
+`**git add <nome-arquivo-ou-pasta>**`
+
+Adiciona arquivos/pastas específicas para realizar o commit na sequencia.
+
+`**git commit -m "descricao"**`
+
+Insere uma descrição do que está sendo comitado (alterações, criação de features, correções de bug, etc).
+
+`**git branch -a**`
+
+lista todas as branchs do repositorio e marca atual que estiver mexendo.
+
+`**git checkout nome-da-branch**`
+
+mudar de branch.
