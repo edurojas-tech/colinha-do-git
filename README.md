@@ -11,15 +11,13 @@ https://git-scm.com/download
 
 `git status`
 
-verifica situação que se encontra a branch, validando se há alterções, commits pendentes, etc.
 
-`git add .`
 
-Adiciona todos os arquivos e/ou pastas modificados na lista para commitar. 
 
-`git add <nome-arquivo-ou-pasta>`
+ 
 
-Adiciona arquivos/pastas específicas para realizar o commit na sequencia.
+
+
 
 `git commit -m "descricao"`
 
@@ -40,3 +38,10 @@ puxa atualizações remota da branch escolhida
 `git push nome-da-branch`
 
 envias as modificações prontas já comitadas e atualizadas para a branch remota escolhida
+
+
+|comando|descrição|
+------------------
+|`git status`| verifica situação que se encontra a branch, validando se há alterções, commits pendentes, etc.|
+|`git add .`| Adiciona todos os arquivos e/ou pastas modificados na lista para commitar.|
+|`git add <nome-arquivo-ou-pasta>`| Adiciona arquivos/pastas específicas para realizar o commit na sequencia.|
