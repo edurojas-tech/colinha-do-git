@@ -19,6 +19,7 @@ https://git-scm.com/download
 |`git checkout nome-da-branch`| mudar de branch.|
 |`git pull nome-da-branch`| puxa atualizações remota da branch escolhida|
 |`git push nome-da-branch`|envias as modificações prontas já comitadas e atualizadas para a branch remota escolhida|
+|`git checkout -b nova-branch`|comando para criar uma nova branch|
 
 
 
