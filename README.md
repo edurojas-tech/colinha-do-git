@@ -17,9 +17,6 @@ https://git-scm.com/download
 |`git commit -m "descricao"`| Insere uma descrição do que está sendo comitado (alterações, criação de features, correções de bug, etc).|
 |`git branch -a`| lista todas as branchs do repositorio e marca atual que estiver mexendo.|
 |`git checkout nome-da-branch`| mudar de branch.|
+|`git checkout -b nova-branch`|comando para criar uma nova branch|
 |`git pull nome-da-branch`| puxa atualizações remota da branch escolhida|
 |`git push nome-da-branch`|envias as modificações prontas já comitadas e atualizadas para a branch remota escolhida|
-|`git checkout -b nova-branch`|comando para criar uma nova branch|
-
-
-
