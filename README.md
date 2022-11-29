@@ -10,7 +10,8 @@ https://git-scm.com/download
 # Comandos Git:
 
 |comando|descrição|
-| ----------- | ----------- | 
+| ----------- | ----------- |
+|`git log`|comando para exibir todo histórico do seu repositório, trazendo informações de commits, e mudanças no projeto|
 |`git status`| verifica situação que se encontra a branch, validando se há alterções, commits pendentes, etc.|
 |`git add .`| Adiciona todos os arquivos e/ou pastas modificados na lista para commitar.|
 |`git add <arquivo-ou-pasta>`| Adiciona arquivos/pastas específicas para realizar o commit na sequencia.|
