@@ -22,3 +22,15 @@ https://git-scm.com/download
 |`git pull nome-da-branch`| puxa atualizações remota da branch escolhida|
 |`git push nome-da-branch`|envias as modificações prontas já comitadas e atualizadas para a branch remota escolhida|
 |`git branch -D nome-da-branch`|comando para deletar uma branch|
+
+
+### Git semântico
+Ao realizar commits no git (git commit -m "descricao"), devemos colocorar o tipo de comit para entender melhor o que foi feito no projeto
+
+**✍🏻** **Refactor** - Refatoração de um código.
+**✍🏻 chore** - Pequenas alterações que não são novas funcionalidades.
+**✍🏻 docs** - Documentação de códigos, documentação técnica.
+**✍🏻 style** - Alteração de estilos, formatação, etc.
+**✍🏻 feat** - Criação de nova funcionalidade.
+**✍🏻 test -** Criação de testes da sua aplicação
+**✍🏻** **fix** - Correção de bugs e erros no código.
