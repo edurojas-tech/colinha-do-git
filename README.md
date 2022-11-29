@@ -33,4 +33,7 @@ Ao realizar commits no git (git commit -m "descricao"), devemos colocorar o tipo
 **✍🏻 style** - Alteração de estilos, formatação, etc. <br>
 **✍🏻 feat** - Criação de nova funcionalidade. <br>
 **✍🏻 test -** Criação de testes da sua aplicação <br>
-**✍🏻** **fix** - Correção de bugs e erros no código.
+**✍🏻** **fix** - Correção de bugs e erros no código. <br>
+
+##Exemplo:
+<i>git commit -m "chore(workspace): descrição da atividade ou tarefa feita"</i>
