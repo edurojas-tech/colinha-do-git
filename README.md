@@ -35,5 +35,5 @@ Ao realizar commits no git (git commit -m "descricao"), devemos colocorar o tipo
 **✍🏻 test -** Criação de testes da sua aplicação <br>
 **✍🏻** **fix** - Correção de bugs e erros no código. <br>
 
-##Exemplo:
+## Exemplo:
 <i>git commit -m "chore(workspace): descrição da atividade ou tarefa feita"</i>
