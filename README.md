@@ -27,10 +27,10 @@ https://git-scm.com/download
 ### Git semântico
 Ao realizar commits no git (git commit -m "descricao"), devemos colocorar o tipo de comit para entender melhor o que foi feito no projeto
 
-**✍🏻** **Refactor** - Refatoração de um código.
-**✍🏻 chore** - Pequenas alterações que não são novas funcionalidades.
-**✍🏻 docs** - Documentação de códigos, documentação técnica.
-**✍🏻 style** - Alteração de estilos, formatação, etc.
-**✍🏻 feat** - Criação de nova funcionalidade.
-**✍🏻 test -** Criação de testes da sua aplicação
+**✍🏻** **Refactor** - Refatoração de um código. <br>
+**✍🏻 chore** - Pequenas alterações que não são novas funcionalidades. <br>
+**✍🏻 docs** - Documentação de códigos, documentação técnica. <br>
+**✍🏻 style** - Alteração de estilos, formatação, etc. <br>
+**✍🏻 feat** - Criação de nova funcionalidade. <br>
+**✍🏻 test -** Criação de testes da sua aplicação <br>
 **✍🏻** **fix** - Correção de bugs e erros no código.
