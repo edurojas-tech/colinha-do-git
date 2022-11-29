@@ -1,8 +1,8 @@
-<h3 align="center">
+<h2 align="center">
     <img style="border-radius: 50%" alt="JavaScript" title="#estudosJs" src="https://fofxacademy.com/wp-content/uploads/2020/01/install-git-for-multiple-users.png" width='330px' align="center"/>
     <br><br>
     Colinha do Git
-</h3>
+</h2>
 
 # Instalação 
 https://git-scm.com/download
