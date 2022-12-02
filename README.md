@@ -37,3 +37,13 @@ Ao realizar commits no git (git commit -m "descricao"), devemos colocorar o tipo
 
 ### Exemplo de comando para commits:
 <i>git commit -m "chore(workspace): descrição da atividade ou tarefa feita"</i>
+
+*`git commit -m "chore(checkout): inserindo ícone de pagamento"`*
+
+*`git commit -m "feat(dashboard.profile): criação da tela de perfil do usuário"`*
+
+*`git commit -m "feat(dashboard.login): criação da tela de login de usuários"`*
+
+*`git commit -m "feat(API.products): desenvolvimento de API de listagem de produtos"`*
+
+*`git commit -m "fix(dashboard.galeria): correção na classe CSS de fotos da galeria"`*
