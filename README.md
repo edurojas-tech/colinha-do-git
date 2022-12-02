@@ -25,7 +25,7 @@ https://git-scm.com/download
 
 
 ### Git semântico
-Ao realizar commits no git (git commit -m "descricao"), devemos colocorar o tipo de comit para entender melhor o que foi feito no projeto
+Ao realizar commits no git (git commit -m "descricao"), devemos colocar o tipo de comit para entender melhor o que foi feito no projeto.
 
 **✍🏻** **Refactor** - Refatoração de um código. <br>
 **✍🏻 chore** - Pequenas alterações que não são novas funcionalidades. <br>
