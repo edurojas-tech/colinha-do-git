@@ -22,6 +22,7 @@ https://git-scm.com/download
 |`git pull nome-da-branch`| puxa atualizações remota da branch escolhida|
 |`git push nome-da-branch`|envias as modificações prontas já comitadas e atualizadas para a branch remota escolhida|
 |`git branch -D nome-da-branch`|comando para deletar uma branch|
+|`git diff`|comando para ver as ultimas alterações feitas|
 
 
 ### Git semântico
