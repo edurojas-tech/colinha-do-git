@@ -23,7 +23,8 @@ https://git-scm.com/download
 |`git push nome-da-branch`|envias as modificações prontas já comitadas e atualizadas para a branch remota escolhida|
 |`git branch -D nome-da-branch`|comando para deletar uma branch|
 |`git diff`|comando para ver as ultimas alterações feitas|
-
+|`git stash`|comando para salvar suas alterações que ainda não foram commitadas|
+|`git stash pop`|comando para recuperar as alterações salvas|
 
 ### Git semântico
 Ao realizar commits no git (git commit -m "descricao"), devemos colocar o tipo de comit para entender melhor o que foi feito no projeto.
