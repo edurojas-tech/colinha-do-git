@@ -1,5 +1,5 @@
 <h2 align="center">
-    <img style="border-radius: 50%" alt="JavaScript" title="#estudosJs" src="https://fofxacademy.com/wp-content/uploads/2020/01/install-git-for-multiple-users.png" width='330px' align="center"/>
+    <img alt="JavaScript" title="#estudosJs" src="https://fofxacademy.com/wp-content/uploads/2020/01/install-git-for-multiple-users.png" width='330px' align="center"/>
     <br>
     Colinha do Git
 </h2>
